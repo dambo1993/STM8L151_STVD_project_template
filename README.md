@@ -1,0 +1,1 @@
+# STM8L151_STVD_project_template
